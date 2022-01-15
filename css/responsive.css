@@ -1,0 +1,309 @@
+@media (min-width: 279px) and (max-width: 319px){
+ /*code-start*/
+.navbar-light .navbar-brand {
+    font-size: 26px;
+    line-height: 36px;
+}
+.navbar-light .navbar-toggler {
+    margin-right: 21px;
+}
+.header-section .header-banner {
+    padding: 10px 0px;
+}
+.header-section .header-banner .header-content {
+    padding: 10px 0px;
+}
+.header-section .header-banner .header-content h1 {
+    color: #3d2514;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 36px;
+    letter-spacing: 1px;
+    text-shadow: 0px 5px #fff;
+    margin-bottom: 40px;
+}
+.header-section .header-banner .btn-primary {
+    padding: 10px 34px;
+    border-radius: 25px;
+    margin: 40px 0px 0px 0px;
+}
+.header-section .header-banner .bnr-img {
+    width: 100%;
+    margin: 0px auto;
+}
+
+.Features .title h2 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 29px;
+    line-height: 39px;
+    font-weight: 600;
+}
+.Features .title p {
+    display: none;
+}
+.feedback .feedback-img img {
+    display: none;
+}
+.feedback .title h2 {
+    color: #000;
+    font-size: 27px;
+    line-height: 36px;
+    font-weight: 600;
+}
+.About-section .about-content {
+    width: 100%;
+    margin: 0px auto;
+}
+.team .title p{
+    display: none;
+}
+.team .team-content {
+    margin-bottom: 25px;
+}
+.testimonial .testimonial-item p {
+    font-size: 13px;
+}
+.blog .blog-content {
+    width: 100%;
+    margin-bottom: 30px;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 50px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 7px 13px;
+    border-radius: 5px;
+    background: #57aae1;
+    color: #fff;
+}
+/*code-end*/
+}
+
+
+
+@media (min-width: 320px) and (max-width: 480px){
+ /*code-start*/
+
+.navbar-light .navbar-brand {
+    font-size: 26px;
+    line-height: 36px;
+}
+.navbar-light .navbar-toggler {
+    margin-right: 21px;
+}
+.header-section .header-banner {
+    padding: 10px 0px;
+}
+.header-section .header-banner .header-content {
+    padding: 10px 0px;
+}
+.header-section .header-banner .header-content h1 {
+    color: #3d2514;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 36px;
+    letter-spacing: 1px;
+    text-shadow: 0px 5px #fff;
+    margin-bottom: 40px;
+}
+.header-section .header-banner .btn-primary {
+    padding: 7px 24px;
+    border-radius: 25px;
+    margin: 17px 0px 0px 30px;
+}
+.About-section .about-content .btn-primary{
+     padding: 7px 24px;
+    border-radius: 25px;
+    margin: 17px 0px 0px 30px;   
+}
+.form-section .btn-primary {
+   padding: 7px 24px;
+    border-radius: 25px;
+    margin: 17px 0px 0px 30px; 
+    
+}
+.header-section .header-banner .bnr-img {
+    width: 100%;
+    margin: 0px auto;
+}
+
+.Features .title h2 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 29px;
+    line-height: 39px;
+    font-weight: 600;
+}
+.Features .title p {
+    display: none;
+}
+.feedback .feedback-img img {
+    display: none;
+}
+.feedback .title h2 {
+    color: #000;
+    font-size: 27px;
+    line-height: 36px;
+    font-weight: 600;
+}
+.About-section .about-content {
+    width: 100%;
+    margin: 0px auto;
+}
+.team .title p{
+    display: none;
+}
+.team .team-content {
+    margin-bottom: 25px;
+}
+.testimonial .testimonial-item p {
+    font-size: 13px;
+}
+.blog .blog-content {
+    width: 100%;
+    margin-bottom: 30px;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 50px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 7px 13px;
+    border-radius: 5px;
+    background: #57aae1;
+    color: #fff;
+}
+ /*code-end*/
+}
+
+
+
+@media (min-width: 481px) and (max-width: 767px){
+ /*code-start*/
+.navbar-light .navbar-brand {
+    font-size: 26px;
+    line-height: 36px;
+}
+.navbar-light .navbar-toggler {
+    margin-right: 21px;
+}
+.header-section .header-banner {
+    padding: 10px 0px;
+}
+.header-section .header-banner .header-content {
+    padding: 10px 0px;
+}
+.header-section .header-banner .header-content h1 {
+    color: #3d2514;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 36px;
+    letter-spacing: 1px;
+    text-shadow: 0px 5px #fff;
+    margin-bottom: 40px;
+}
+.header-section .header-banner .btn-primary {
+    padding: 10px 34px;
+    border-radius: 25px;
+    margin: 40px 0px 0px 0px;
+}
+.header-section .header-banner .bnr-img {
+    width: 100%;
+    margin: 0px auto;
+}
+
+.Features .title h2 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 29px;
+    line-height: 39px;
+    font-weight: 600;
+}
+.Features .title p {
+    display: none;
+}
+.feedback .feedback-img img {
+    display: none;
+}
+.feedback .title h2 {
+    color: #000;
+    font-size: 27px;
+    line-height: 36px;
+    font-weight: 600;
+}
+.About-section .about-content {
+    width: 100%;
+    margin: 0px auto;
+}
+.team .title p{
+    display: none;
+}
+.team .team-content {
+    margin-bottom: 25px;
+}
+.testimonial .testimonial-item p {
+    font-size: 13px;
+}
+.blog .blog-content {
+    width: 100%;
+    margin-bottom: 30px;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 50px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 7px 13px;
+    border-radius: 5px;
+    background: #57aae1;
+    color: #fff;
+}
+ /*code-end*/
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+ /*code-start*/
+ .header-section .header-banner .bnr-img {
+    width: 100%;
+    margin: 0px 0px 0px 21px;
+}
+  #myBtn {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 90px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 7px 13px;
+    border-radius: 5px;
+    background: #57aae1;
+    color: #fff;
+}
+ /*code-end*/
+}
